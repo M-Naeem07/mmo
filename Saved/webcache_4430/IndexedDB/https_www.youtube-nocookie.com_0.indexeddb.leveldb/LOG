@@ -1,0 +1,7 @@
+2024/03/13-12:20:28.372 d68 Reusing MANIFEST C:/Users/Naeem/Documents/MMOKit/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/03/13-12:20:28.380 d68 Recovering log #3
+2024/03/13-12:20:28.380 d68 Reusing old log C:/Users/Naeem/Documents/MMOKit/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000003.log 
+2024/03/13-12:29:00.367 46fc Level-0 table #5: started
+2024/03/13-12:29:00.379 46fc Level-0 table #5: 1322 bytes OK
+2024/03/13-12:29:00.380 46fc Delete type=0 #3
+2024/03/13-12:29:00.380 46fc Manual compaction at level-0 from (begin) .. (end); will stop at (end)

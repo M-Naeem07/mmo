@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Naeem/Documents/MMOKit/Content/MMOKit/MMO_Maps/StartMap.umap",
+				"C:/Users/Naeem/Documents/MMOKit/Content/MMOKit/MMO_Logic/Widgets/WBP_EditorWarning1.uasset",
+				"C:/Users/Naeem/Documents/MMOKit/Content/MMOKit/MMO_Logic/Widgets/StartLevel/WBP_Start_HUD.uasset",
+				"C:/Users/Naeem/Documents/MMOKit/Content/MMOKit/MMO_Logic/Widgets/StartLevel/WBP_CharSelection.uasset",
+				"C:/Users/Naeem/Documents/MMOKit/Content/__ExternalActors__/MMOKit/MMO_Maps/LargeMap/5/6Q/9FFMAIHZ73V8YRH7AWTIA5.uasset",
+				"C:/Users/Naeem/Documents/MMOKit/Content/__ExternalActors__/MMOKit/MMO_Maps/LargeMap/5/AT/9IICTOGMG31Q6EKIPD41BK.uasset",
+				"C:/Users/Naeem/Documents/MMOKit/Content/__ExternalActors__/MMOKit/MMO_Maps/LargeMap/4/9D/HCM79HM4J5T16NZS5ACOIE.uasset",
+				"C:/Users/Naeem/Documents/MMOKit/Content/__ExternalActors__/MMOKit/MMO_Maps/LargeMap/D/Y1/Y4DNOVYYY8GJK4R19VUE2I.uasset",
+				"C:/Users/Naeem/Documents/MMOKit/Content/MMOKit/MMO_Maps/mymaterials.uasset",
+				"C:/Users/Naeem/Documents/MMOKit/Content/MMOKit/MMO_Maps/mymaterials_Inst.uasset",
+				"C:/Users/Naeem/Documents/MMOKit/Content/MMOKit/MMO_Maps/NewWorld.umap"
+			]
+		}
+	]
+}
